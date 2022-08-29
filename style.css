@@ -660,6 +660,7 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
+    color: #FFFFFF;
 }
 
 .hero-bloc-text-sub {
@@ -781,7 +782,7 @@ h4 {
 }
 
 .tc-white {
-    color: #364577!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
